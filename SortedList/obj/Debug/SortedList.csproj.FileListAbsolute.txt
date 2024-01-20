@@ -1,0 +1,8 @@
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\bin\Debug\SortedList.exe.config
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\bin\Debug\SortedList.exe
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\bin\Debug\SortedList.pdb
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\obj\Debug\SortedList.csproj.SuggestedBindingRedirects.cache
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\obj\Debug\SortedList.exe
+F:\2_2023-2024\.NET\projectNET\SortedList\SortedList\obj\Debug\SortedList.pdb
